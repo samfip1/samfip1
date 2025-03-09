@@ -12,8 +12,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=samfip1&theme=dark&hide_border=false)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samfip1&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samfip1&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samfip1&theme=monokai&utcOffset=8)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samfip1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samfip1&theme=monokai&utcOffset=8)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samfip1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samfip1&theme=monokai)
 
 ## 🏆 GitHub Trophies
