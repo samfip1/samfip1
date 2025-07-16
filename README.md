@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Education: Third-year student<br>💻 Tech Stack: React, TypeScript, Next.js<br>🚀 Projects: Actively building projects to strengthen my skills<br>📚 Currently Learning: WebRTC, Kubernetes, PL/SQL<br>🌟 Goals: Seeking an internship to gain hands-on experience and grow as a developer
+🎓 Education: Third-year student<br>💻 Tech Stack: React, TypeScript, Next.js<br>🚀 Projects: Actively building projects to strengthen my skills<br>📚 Currently Learning: WebRTC, Kubernetes, PL/SQL<br>🌟 Goals: Got one Internship, looking for another to gain hands-on experience and grow as a developer
 
 
 ## 🌐 Socials:
