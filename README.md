@@ -1,4 +1,4 @@
-![c5ac4a392d73e289f806bc766fd36596](https://github.com/user-attachments/assets/6899aa77-cdca-4248-bcd7-00973c866b07)
+<img width="734" height="431" alt="image" src="https://github.com/user-attachments/assets/328a3097-3213-4143-aa1b-0f782c1768a9" />
 
 
 Helllooo I'm Samant Rathod
